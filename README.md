@@ -6,7 +6,7 @@ Science Computer
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duartethaigo/)
 
-![dantzK GitHub stats](https://github-readme-stats.vercel.app/api?username=Duartelitz&show_icons=true&theme=dracula)
+![dantzK GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaigoDev&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia a dia 
 
